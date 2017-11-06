@@ -1,3 +1,7 @@
+<?php
+@ob_start();
+session_start();
+?>
 <!DOCTYPE html>
 <html>
 <body>
@@ -5,6 +9,8 @@
 <?php
 include 'header.php';
 ?>
+
+
 
 <h1>1. Eingabe Taschenrechner</h1>
 

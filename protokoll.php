@@ -1,4 +1,8 @@
-﻿<!DOCTYPE html>
+﻿<?php
+@ob_start();
+session_start();
+?>
+<!DOCTYPE html>
 <html>
 <body>
 
