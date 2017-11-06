@@ -51,3 +51,5 @@ Benutzer: Marijam Ergebnis: 9
 Benutzer: Richard Ergebnis: 10
 Benutzer: Rolf Ergebnis: 
 Benutzer: Test Ergebnis: 9
+Benutzer: Test Ergebnis: 10
+Benutzer: Stefan Ergebnis: 0

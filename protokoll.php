@@ -1,6 +1,7 @@
 ﻿<?php
 @ob_start();
 session_start();
+session_destroy();
 ?>
 <!DOCTYPE html>
 <html>
@@ -26,9 +27,6 @@ if ($position == null) {
 } else {
     echo "Benutzer " . $benutzername . " vorhanden.";
 }
-
-session_unset();
-session_destroy();
 ?>
 
 <?php
